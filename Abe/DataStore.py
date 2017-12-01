@@ -68,6 +68,7 @@ CHAIN_CONFIG = [
     {"chain":"Namecoin"},
     {"chain":"Weeds", "policy":"Sha256Chain",
      "code3":"WDS", "address_version":"\xf3", "magic":"\xf8\xbf\xb5\xda"},
+    {"chain":"Bulwark"},
     {"chain":"BeerTokens", "policy":"Sha256Chain",
      "code3":"BER", "address_version":"\xf2", "magic":"\xf7\xbf\xb5\xdb"},
     {"chain":"SolidCoin", "policy":"Sha256Chain",
